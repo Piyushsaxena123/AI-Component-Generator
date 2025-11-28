@@ -159,36 +159,6 @@ AI-Component-Generator/
 4. Code shows in Monaco Editor
 5. Preview updates instantly
 6. Export or copy the code
-
----
-
-# 📜 **.gitignore (Recommended)**
-
-```
-# Dependencies
-node_modules/
-
-# Build output
-dist/
-
-# Environment files
-.env
-.env.local
-.env.production
-.env.development
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Editor & system files
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
-```
-
 ---
 
 # 🔮 **Future Enhancements**
