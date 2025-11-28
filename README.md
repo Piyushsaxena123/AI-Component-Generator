@@ -57,11 +57,9 @@ Generate **HTML, CSS, Tailwind, Bootstrap, or JS UI components** instantly using
 
 ### 🔹 Light Mode
 
-![Light Mode](#)
 
 ### 🔹 Dark Mode
 
-![Dark Mode](#)
 
 ---
 
